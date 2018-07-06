@@ -3,7 +3,7 @@ This code is a Matlab function of Semidefinite relaxation-based algorithm (STliF
 
 Requirements:  
 (1) MATLAB Parallel Computing Toolbox, or you can use "for" instead of "parfor" in the function.   
-(2) CVX: You can download in http://cvxr.com/cvx/.
+(2) CVX: You can download it by visit http://cvxr.com/cvx/.
 
 The code is based on the theory described in:
 
